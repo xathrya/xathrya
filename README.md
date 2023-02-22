@@ -13,7 +13,9 @@
   <a href="https://instagram.com/xathrya_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
 </p>
 <p align="center">
-  <img src="https://www.codewars.com/users/xathrya/badges/small" />
+  <a href="https://www.codewars.com/users/xathrya">
+    <img src="https://www.codewars.com/users/xathrya/badges/small" />
+  </a>
 </p>
 
 ### Cyber Security Consultant | Low-Level Code & Stuffs Enthusiast | Learner ###
